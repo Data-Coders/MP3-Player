@@ -1,0 +1,31 @@
+
+Before using this software :
+	This software is build with platform independencies it can run either on Windows, Linux, Mac.
+
+
+Pre-requisites
+
+	You must use this software on the above mentioned platforms not on Android (You can run this on Android but with Turmux emulator and install python)
+
+
+Installation on Windows:
+
+	1. Download and install Python from the official Website https://python.org
+	2. Double click on the Mp3-Player.py after the installation
+
+Installtion on Linux, Mac:
+
+	For installtion of Python Using Terminal in apt:
+		1. Press Ctrl + Alt + T
+		2. Type 'sudo apt-get update'
+		3. Type 'sudo apt-get install python3'
+
+	Running the file:
+		1. Go to the Directory where the file is locatedin terminal
+		2. Type 'python Mp3-Player.py'
+
+
+Using the Software:
+ 
+ 	1. Browse to the Location where the Downloaded song is located
+ 	2. Hit 'Okay'
